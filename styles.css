@@ -1,0 +1,22 @@
+
+
+.pwFace {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: palegreen;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 100%;
+
+}
+
+#userEntry{
+    width: 100%;
+}
+
+#slider{
+    width: 100%;
+    
+}
