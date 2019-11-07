@@ -11,3 +11,8 @@ Bootcamp Homework03
 -changed bar width to fill box
 -added a slider element to chose password length no js yet
 -after many hours, properly padded and margined the interface
+
+11/6/19
+-I don't understand JavaScript well enough to do this
+-I followed a guide and what worked if it, does not for me. I do not understand why. I've tried other people code, looked up solutions and none if it works.
+-I do not know what to do. I'm scared.
