@@ -16,3 +16,6 @@ Bootcamp Homework03
 -I don't understand JavaScript well enough to do this
 -I followed a guide and what worked if it, does not for me. I do not understand why. I've tried other people code, looked up solutions and none if it works.
 -I do not know what to do. I'm scared.
+
+11/8/19
+-Pseudocode added into JS file.
