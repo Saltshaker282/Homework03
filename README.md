@@ -19,3 +19,7 @@ Bootcamp Homework03
 
 11/8/19
 -Pseudocode added into JS file.
+
+11/9/19
+-Knowledge is not enough to complete basic parameters, assignment failed.
+-No extension would help me complete this properly.
